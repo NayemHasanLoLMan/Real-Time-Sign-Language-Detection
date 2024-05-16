@@ -1,0 +1,2 @@
+The real-time sign language detection project seeks to revolutionize communication for deaf individuals by leveraging cutting-edge technology. By harnessing the power of Python, OpenCV, and MediaPipe, our aim is to develop algorithms capable of accurately recognizing and interpreting alphanumeric hand motions in American Sign Language (ASL) in real time.
+![image](https://github.com/NayemHasanLoLMan/SLD/assets/51044702/e3628125-82e4-48ef-9104-4dec526ce4c3)
