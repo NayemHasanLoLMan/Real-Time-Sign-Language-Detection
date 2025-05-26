@@ -26,6 +26,7 @@ To build a computer vision-based system that:
 
 ## 📁 Project Structure
 
+```bash
 ├── CollectImage.py          # Script to capture hand gesture images for dataset creation
 ├── CreateDataset.py         # Processes captured images and organizes them into labeled datasets
 ├── InferenceClassifier.py   # Loads the trained model and performs real-time gesture prediction
@@ -33,7 +34,7 @@ To build a computer vision-based system that:
 ├── model.p                  # Trained machine learning model saved in pickle format
 ├── data.pickle              # Label encodings for gesture classes
 ├── README.md                # Project overview and documentation
-
+```
 
 
 
